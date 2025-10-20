@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg)
 
 ### ✨ About me
 
