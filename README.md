@@ -1,5 +1,13 @@
 ## Hello there!
 
+<details>
+  <summary>more</summary>
+  <table width="2000">
+    <tr>
+      <td width="2000"><img align="center" width="100%" alt="metrics" src="/metrics.svg"></td>
+    </tr>
+  </table>
+</details>
 <div align="center">
   <img height="200" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
 </div>
