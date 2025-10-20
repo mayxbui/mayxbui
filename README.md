@@ -17,8 +17,8 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=E725F7&width=435&lines=%F0%9F%94%97+Let's+Connect)](https://git.io/typing-svg)
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mayxbui)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayxbui) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mayxbui@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayxbui) 
 <br>
 
 <img width="200" src="./assets/Season 9 Nbc GIF by The Office.gif" alt="Pwease Hire Me!">
