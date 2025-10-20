@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg)
 ### ✨ About me
 
 - 👩🏻‍💻 I'm a Computer Science student at DePauw University<br>
 - 👩🏻‍🏫 Interned at iD Tech summer of 2025 🐰
-- Got my golden ✨ticket✨ ticket to Grace Hopper Conference in Chicago this November! See you there~
+- Got my golden ✨ticket✨ to Grace Hopper Conference in Chicago this November! See you there~
 - ✈️ Boba and travel enthusiast (will be in 3 continents in the next 4 months) <br>
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mayxbui)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayxbui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayxbui@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayxbui) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mayxbui@gmail.com)
 <br>
 
 ### 🧰 Tech Stack I Used
