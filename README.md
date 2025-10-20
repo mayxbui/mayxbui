@@ -1,10 +1,9 @@
-## Hello there!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=28&duration=4500&pause=500&color=F7E978&width=435&lines=%F0%9F%8C%BCThanks+For+Visiting+!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=28&duration=4500&pause=500&color=F7E978&width=435&lines=%F0%9F%8C%BCThanks+For+Visiting+!)](https://git.io/typing-svg)
 <table width="100%">
     <tr>
       <td width="40%" align="center">
@@ -30,7 +29,6 @@
 <br>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=E725F7&width=435&lines=%F0%9F%94%97+Let's+Connect)](https://git.io/typing-svg)
-  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mayxbui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mayxbui@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayxbui) 
