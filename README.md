@@ -3,8 +3,8 @@
 ### ✨ About me
 
 - 👩🏻‍💻 I'm a Computer Science student at DePauw University<br>
-- 👩🏻‍🏫 I interned at iD Tech summer of 2025
-- ✈️ Boba and travel enthusiast<br>
+- 👩🏻‍🏫 Interned at iD Tech summer of 2025. Got my ticket to Grace Hopper Conference in Chicago this November! See you there~
+- ✈️ Boba and travel enthusiast (will be in 3 continents in the next 4 months) <br>
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mayxbui)
