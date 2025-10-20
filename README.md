@@ -4,7 +4,7 @@
 - 👩🏻‍💻 Computer Science student at DePauw University
 - 🐰 Summer 2025 iD Tech Lead Instructor (yes, I taught kids how to make video games)
 - 🎫 Got my ✨ticket✨ to the **Grace Hopper Celebration** in Chicago this November — let’s connect IRL!
-- ✈️ Certified boba, matcha, crafting, and sitcom enthusiast <br>
+- 🧋 Certified boba, matcha, crafting, and sitcom enthusiast <br>
 
 ### 🔗 Let's Connect
   
