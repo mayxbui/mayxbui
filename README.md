@@ -14,7 +14,7 @@
         ➡️ <a href="https://drive.google.com/file/d/1CqYER3IvwnxJnMYUa6accHzkVzalF42K/view?usp=sharing"><b>VIEW MY RESUME</b></a>
     </td>
       </td>
-      <td width="50%" align="center"><img alt="metrics" src="/metrics.svg"></td>
+      <td width="50%" align=""><img alt="metrics" src="metrics.svg"></td>
     </tr>
 </table>
 <!-- 
