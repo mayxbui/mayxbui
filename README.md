@@ -4,7 +4,7 @@
   <summary>more</summary>
   <table width="2000">
     <tr>
-      <td width="2000"><img align="center" width="100%" alt="leetcode" src="/leetcode.svg"></td>
+      <td width="2000"><img align="center" width="100%" alt="metrics" src="/metrics.svg"></td>
     </tr>
   </table>
 </details>
