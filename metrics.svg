@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.17693349724765" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="116.17693349724765" y="0" width="113.5619259410065" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="229.73885943825414" y="0" width="71.73261085749634" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="301.47147029575046" y="0" width="58.11728225888543" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.17693349724765" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="116.17693349724765" y="0" width="113.5619259410065" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="229.73885943825414" y="0" width="71.73261085749634" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="301.47147029575046" y="0" width="58.11728225888543" height="8" fill="#fffe81"/>
                     <rect mask="url(#languages-bar)" x="359.5887525546359" y="0" width="54.699042354101906" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="414.2877949087378" y="0" width="32.09687649265126" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="446.3846714013891" y="0" width="13.615328598610905" height="8" fill="#c6538c"/>
@@ -32,25 +32,25 @@
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#dc4afe" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#08fed1" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#fe918b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Java
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#fffe81" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
                     </div>
@@ -91,7 +91,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -144,7 +144,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inttter/md-badges</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extensive list of Shields.io badges.</div>
@@ -197,7 +197,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omidnikrah/profile-activity-generator</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate custom profile activity for your profile README</div>
