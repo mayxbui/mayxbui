@@ -39,10 +39,10 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: mayxbui
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 3
+          plugin_leetcode_limit_recent: 2
           # Recently starred
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 3
 
           
           
