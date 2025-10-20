@@ -1,22 +1,23 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=35&duration=4500&pause=500&color=F7E978&width=435&lines=%F0%9F%8C%BCThanks+For+Visiting+!)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=35&duration=4500&pause=500&color=F7E978&width=435&lines=%F0%9F%8C%BCThanks+For+Visiting+!)](https://git.io/typing-svg)-->
 
 <div align="center">
-  <img height="200" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
-</div>
-
-<table width="100%">
+  <table height="100%">
     <tr>
-      <td width="50%" align="center">
-        <img width="80%" src="./assets/Season 9 Nbc GIF by The Office.gif" alt="Pwease Hire Me!"> 
-        <br><br>
-        <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot at landing an internship </i>🫣
-        <br><br>
-        ➡️ <a href="https://drive.google.com/file/d/1CqYER3IvwnxJnMYUa6accHzkVzalF42K/view?usp=sharing"><b>VIEW MY RESUME</b></a>
-    </td>
-      </td>
-      <td width="50%" align=""><img alt="metrics" src="metrics.svg"></td>
+        <img height="180" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
     </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="80%" src="./assets/Season 9 Nbc GIF by The Office.gif" alt="Pwease Hire Me!"> 
+      <br><br>
+      <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot at landing an internship </i>🫣
+      <br><br>
+      ➡️ <a href="https://drive.google.com/file/d/1CqYER3IvwnxJnMYUa6accHzkVzalF42K/view?usp=sharing"><b>VIEW MY RESUME</b></a>
+    </td>
+    </td>
+    <td width="50%" align=""><img alt="metrics" src="metrics.svg"></td>
+  </tr>
 </table>
+</div>
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg) -->
 
