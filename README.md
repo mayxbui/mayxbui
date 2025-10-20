@@ -3,6 +3,17 @@
 <div align="center">
   <img height="200" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
 </div>
+
+
+<detail>
+<summary>more</summary>
+<table width="2000">
+<tr>
+  <td width="2000"><img align="center" width="100%" alt="stats card" src="/leetcode.svg"></td>
+</tr>
+
+
+
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg) -->
 
