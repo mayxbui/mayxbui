@@ -9,7 +9,7 @@
     <td width="50%" align="center">
       <img width="80%" src="./assets/Season 9 Nbc GIF by The Office.gif" alt="Pwease Hire Me!"> 
       <br><br>
-      <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot at landing an internship </i>🫣
+      <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot too </i>🫣
       <br><br>
       ➡️ <a href="https://drive.google.com/file/d/1CqYER3IvwnxJnMYUa6accHzkVzalF42K/view?usp=sharing"><b>VIEW MY RESUME</b></a>
     </td>
