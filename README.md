@@ -24,7 +24,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=21F7A6&width=435&lines=%E2%9C%A8+About+Me)](https://git.io/typing-svg)
 - 👩🏻‍💻 Computer Science student at DePauw University
 - 🐰 Summer 2025 iD Tech Lead Instructor (yes, I taught kids how to make video games)
-- 🧋 Certified boba, matcha, crafting, and sitcom enthusiast
+- 🧋 A boba, matcha, crafting, and sitcom enthusiast
 - 🎫 Got my ✨ticket✨ to the **Grace Hopper Celebration** in Chicago this November. *Let’s meet up!*
 
 <br>
