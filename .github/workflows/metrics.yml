@@ -34,7 +34,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_colors: 0:#dc4afe, 1:#08fed1, 2:#fe918b, 3:#fffe81
+          plugin_languages_colors: 0:#dc4afe, 1:#08fed1, 2:#0080fe, 3:#fe918b, 4:#fffe81
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: mayxbui
