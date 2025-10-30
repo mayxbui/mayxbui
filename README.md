@@ -3,7 +3,7 @@
 <div align="center">
   <table height="100%">
     <tr>
-        <img height="180" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
+        <img height="150" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
     </tr>
   <tr>
     <td width="50%" align="center">
@@ -22,9 +22,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg) -->
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=21F7A6&width=435&lines=%E2%9C%A8+About+Me)](https://git.io/typing-svg)
-- 👩🏻‍💻 Computer Science student at DePauw University
-- 🐰 Summer 2025 iD Tech Lead Instructor (yes, I taught kids how to make video games)
-- 🧋 A boba, matcha, crafting, and sitcom enthusiast
+- 👩🏻‍💻 **Currently**: Computer Science student at DePauw University
+- 🐰 **Summer 2025**: iD Tech Lead Instructor (yes, I taught kids how to make video games)
 - 🎫 Got my ✨ticket✨ to the **Grace Hopper Celebration** in Chicago this November. *Let’s meet up!*
 
 <br>
