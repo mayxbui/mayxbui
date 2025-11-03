@@ -41,7 +41,6 @@
 - 💚 I like matcha but not because I'm performative
 - 💖 Passionate about supporting women in tech
 
-Feel free to browse my projects or drop me a message. Let’s make something awesome together!
 
 <!--
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=F7E978&width=435&lines=%F0%9F%A7%B0+My+Toolbox)](https://git.io/typing-svg)
