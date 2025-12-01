@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.17876841057895" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="157.17876841057895" y="0" width="89.3159556303512" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="246.49472404093015" y="0" width="60.50231552569189" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="306.99703956662205" y="0" width="50.497328239586274" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="357.49436780620834" y="0" width="42.25985480364096" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="399.7542226098493" y="0" width="37.22854299998772" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="436.98276560983703" y="0" width="18.745365877627233" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.7281314874642" y="0" width="4.271868512535777" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.17547578759243" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="154.17547578759243" y="0" width="98.08791375933988" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="252.2633895469323" y="0" width="59.73016521854859" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="311.9935547654809" y="0" width="48.84827081392474" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="360.8418255794057" y="0" width="40.8798030305911" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="401.72162860999674" y="0" width="36.01279540658212" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.7344240165789" y="0" width="18.1332110196399" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.86763503621876" y="0" width="4.132364963781204" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codrops/CubesAdventCalendar</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 3D Advent calendar with fun hover effects and background color animations</div>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metabase/metabase</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -201,7 +201,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>howardchung/watchparty</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Watch anything together in-sync with your friends</div>
@@ -222,7 +222,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        975
+                                        976
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -262,9 +262,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.460127591706539 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.458942333244751 329"/>
                                     <text x="60" y="50" dominant-baseline="central">51</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3762</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3763</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -280,9 +280,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0229709035222054 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.021428571428572 329"/>
                                     <text x="60" y="50" dominant-baseline="central">18</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1959</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1960</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
