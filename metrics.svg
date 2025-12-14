@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.40107911267023" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="144.40107911267023" y="0" width="116.61214714039595" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="261.0132262530662" y="0" width="60.36362179415837" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="321.37684804722454" y="0" width="45.75139452163344" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="367.128242568858" y="0" width="38.28811061795226" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="405.4163531868103" y="0" width="33.729660907540875" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.14601409435113" y="0" width="16.98360407605429" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.1296181704054" y="0" width="3.8703818295945758" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.16522034787207" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="144.16522034787207" y="0" width="117.1730226914641" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="261.3382430393362" y="0" width="60.26502634485425" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="321.60326938419047" y="0" width="45.676666081472376" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="367.27993546566285" y="0" width="38.22557239779285" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="405.5055078634557" y="0" width="33.67456827106199" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.1800761345177" y="0" width="16.955863757880678" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.13593989239837" y="0" width="3.8640601076016736" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khuenguyen1701/pawtal</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DEMO 🐯🔍</div>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asenseofpradhyu/blogapp-react</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Welcome to the React Blog App Series! 🚀 In this 7-day blog series, we'll be diving into the world of React by building a fully functional blog app from scratch. Each day, you'll discover a new aspect of React development, from setting up the environment to deploying your app.</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codrops/CubesAdventCalendar</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 3D Advent calendar with fun hover effects and background color animations</div>
@@ -253,36 +253,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.447124304267161 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.44241461477363 329"/>
                                     <text x="60" y="50" dominant-baseline="central">51</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3773</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3777</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.493449781659388 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.480916030534353 329"/>
                                     <text x="60" y="50" dominant-baseline="central">32</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/916</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/917</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.012207527975585 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0091463414634143 329"/>
                                     <text x="60" y="50" dominant-baseline="central">18</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1966</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1968</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3692480359147026 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3688340807174888 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/891</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/892</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
