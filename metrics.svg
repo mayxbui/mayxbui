@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>khuenguyen1701/pawtal</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DEMO 🐯🔍</div>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asenseofpradhyu/blogapp-react</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Welcome to the React Blog App Series! 🚀 In this 7-day blog series, we'll be diving into the world of React by building a fully functional blog app from scratch. Each day, you'll discover a new aspect of React development, from setting up the environment to deploying your app.</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codrops/CubesAdventCalendar</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 3D Advent calendar with fun hover effects and background color animations</div>
@@ -253,9 +253,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.44241461477363 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.441238750661726 329"/>
                                     <text x="60" y="50" dominant-baseline="central">51</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3777</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3778</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -271,9 +271,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0091463414634143 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0076180802437786 329"/>
                                     <text x="60" y="50" dominant-baseline="central">18</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1968</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1969</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
