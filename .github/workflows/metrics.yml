@@ -20,7 +20,7 @@ jobs:
           # Output
           filename: metrics.svg
           # Your GitHub token
-          token: ${{ secrets.METRIC_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: mayxbui
           # Featured star list
