@@ -19,7 +19,7 @@
       <br><br>
       <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot too </i>🫣
       <br><br>
-      ➡️ <a href="https://drive.google.com/file/d/1PU56xS9F0qPmEEIjveph_gYvJZUrwiUK/view?usp=sharing"><b>VIEW MY RESUME</b></a>
+      ➡️ <a href="https://drive.google.com/file/d/1E9_IIceaMLE9eGT6tgCcS6PN5YpMg-GO/view?usp=sharing"><b>VIEW MY RESUME</b></a>
     </td>
     </td>
     <td width="50%" align=""><img alt="metrics" src="metrics.svg"></td>
