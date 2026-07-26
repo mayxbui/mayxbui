@@ -3,13 +3,13 @@
 <div align="center">
   <table height="100%">
     <tr>
-        <img height="180" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more...">
+        <!-- <img height="180" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more..."> -->
         <p align="center">
           <a href="https://linkedin.com/in/mayxbui"><img height="40" src="./assets/LinkedIn.svg" alt="LinkedIn"></a>
           &nbsp;&nbsp;&nbsp;
           <a href="mailto:mayxbui@gmail.com"><img height="40" src="./assets/Gmail.svg" alt="Gmail"></a>
           &nbsp;&nbsp;&nbsp;
-          <a href="https://instagram.com/mayxbui"><img height="40" src="./assets/Instagram.svg" alt="Instagram"></a>
+          <!-- <a href="https://instagram.com/mayxbui"><img height="40" src="./assets/Instagram.svg" alt="Instagram"></a> -->
         </p>
       <br/>
     </tr>
@@ -35,7 +35,7 @@
 
 - 👩🏻‍💻 Computer Science & Business Analytics at DePauw University
 - 🎫 Break Through Tech Fellow - Machine Learning & AI
-- 🐰 Summer 2026 iD Tech Lead Instructor (yes, I taught kids how to make video games)
+- 🐰 Summer 2026 iD Tech Lead Instructor (Teaching kids how to make video games)
 
 <!--
 <br>
