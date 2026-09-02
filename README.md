@@ -1,20 +1,18 @@
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=35&duration=4500&pause=500&color=F7E978&width=435&lines=%F0%9F%8C%BCThanks+For+Visiting+!)](https://git.io/typing-svg)-->
-
+<p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=500&color=F7B44F&center=true&width=435&lines=%F0%9F%8C%BCWelcome%2C;I'm+May%2C+and+thanks+for+visiting!;My+interest+is+building+AI+model;I+really+like+music+and+crochet;Have+a+wonderful+day+%F0%9F%8C%BB" alt="Typing SVG" /></a>
+</p>
+<br>
+<p align="center">
+  <a href="https://linkedin.com/in/mayxbui"><img height="40" src="./assets/LinkedIn.svg" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mayxbui@gmail.com"><img height="40" src="./assets/Gmail.svg" alt="Gmail"></a>
+  &nbsp;&nbsp;&nbsp;
+</p>
 <div align="center">
   <table height="100%">
-    <tr>
-        <!-- <img height="180" src="./assets/2025-10-20-I-m-May-and-I-love-boba (1).gif" alt="do you like my fun title? there's more..."> -->
-        <p align="center">
-          <a href="https://linkedin.com/in/mayxbui"><img height="40" src="./assets/LinkedIn.svg" alt="LinkedIn"></a>
-          &nbsp;&nbsp;&nbsp;
-          <a href="mailto:mayxbui@gmail.com"><img height="40" src="./assets/Gmail.svg" alt="Gmail"></a>
-          &nbsp;&nbsp;&nbsp;
-          <!-- <a href="https://instagram.com/mayxbui"><img height="40" src="./assets/Instagram.svg" alt="Instagram"></a> -->
-        </p>
-      <br/>
-    </tr>
+    
   <tr>
-    <td width="50%" align="center">
+    <td width="38%" align="center">
       <img width="80%" src="./assets/Season 9 Nbc GIF by The Office.gif" alt="Pwease Hire Me!"> 
       <br><br>
       <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot too </i>🫣
@@ -26,16 +24,13 @@
   </tr>
 </table>
 </div>
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&duration=4800&pause=500&color=FFFFFF&background=FF2BF500&width=435&lines=Hi%2C+I'm+May+Bui+and+I+love+boba%F0%9F%A7%8B)](https://git.io/typing-svg) -->
-
 <br> 
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=21F7A6&width=435&lines=%E2%9C%A8+About+Me)](https://git.io/typing-svg)
 
 - 👩🏻‍💻 Computer Science & Business Analytics at DePauw University
 - 🎫 Break Through Tech Fellow - Machine Learning & AI
-- 🐰 Summer 2026 iD Tech Lead Instructor (Teaching kids how to make video games)
+- 🐰 Summer 25-26 iD Tech Lead Instructor (Teaching kids Python & AI Agent)
 
 <!--
 <br>
