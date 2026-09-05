@@ -5,14 +5,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-light.svg">
-      <img height="50" src="./assets/linkedin-dark.svg" alt="LinkedIn">
+      <img height="45" src="./assets/linkedin-dark.svg" alt="LinkedIn">
     </picture>
   </a>
   <a href="mailto:mayxbui@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/gmail-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/gmail-light.svg">
-      <img height="50" src="./assets/gmail-dark.svg" alt="Gmail">
+      <img height="45" src="./assets/gmail-dark.svg" alt="Gmail">
     </picture>
   </a>
 </p>
