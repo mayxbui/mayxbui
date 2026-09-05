@@ -1,11 +1,33 @@
 <p align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=500&color=F7B44F&center=true&width=435&lines=%F0%9F%8C%BCWelcome%2C;I'm+May%2C+and+thanks+for+visiting!;My+interest+is+building+AI+model;I+really+like+music+and+crochet;Have+a+wonderful+day+%F0%9F%8C%BB" alt="Typing SVG" /></a>
   <br>
+  <a href="https://linkedin.com/in/mayxbui">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-light.svg">
+      <img height="40" src="./assets/linkedin-dark.svg" alt="LinkedIn">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mayxbui@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/gmail-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/gmail-light.svg">
+      <img height="40" src="./assets/gmail-dark.svg" alt="Gmail">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
+<!-- <p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=500&color=F7B44F&center=true&width=435&lines=%F0%9F%8C%BCWelcome%2C;I'm+May%2C+and+thanks+for+visiting!;My+interest+is+building+AI+model;I+really+like+music+and+crochet;Have+a+wonderful+day+%F0%9F%8C%BB" alt="Typing SVG" /></a>
+  <br>
   <a href="https://linkedin.com/in/mayxbui"><img height="40" src="./assets/LinkedIn.svg" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mayxbui@gmail.com"><img height="40" src="./assets/Gmail.svg" alt="Gmail"></a>
   &nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
+
 <div align="center">
   <table height="100%">
     
@@ -15,7 +37,14 @@
       <br><br>
       <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot too </i>🫣
       <br><br>
-      ➡️ <a href="https://drive.google.com/file/d/1XyNT0O9vOxlijumMe02c-eZCUOt3z6sH/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>VIEW MY RESUME</b></a>
+      <a href="https://drive.google.com/file/d/1XyNT0O9vOxlijumMe02c-eZCUOt3z6sH/view?usp=sharing">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/my-resume-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./assets/my-resume-light.svg">
+          <img height="40" src="./assets/my-resume-dark.svg" alt="My Resume">
+        </picture>
+      </a>
+      <!-- ➡️ <a href="https://drive.google.com/file/d/1XyNT0O9vOxlijumMe02c-eZCUOt3z6sH/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>VIEW MY RESUME</b></a> -->
     </td>
     </td>
     <td width="50%" align=""><img alt="metrics" src="metrics.svg"></td>
@@ -24,7 +53,13 @@
 </div>
 <br> 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=21F7A6&width=435&lines=%E2%9C%A8+About+Me)](https://git.io/typing-svg)
+<!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=28&duration=4500&pause=500&color=21F7A6&width=435&lines=%E2%9C%A8+About+Me)](https://git.io/typing-svg)
+ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-me--light.svg">
+  <img height="40" src="./assets/about-me-dark.svg" alt="About me">
+</picture>
 
 - 👩🏻‍💻 Computer Science & Business Analytics at DePauw University
 - 🎫 Break Through Tech Fellow - Machine Learning & AI
