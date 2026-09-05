@@ -35,7 +35,7 @@
       <br><br>
       <i>My resume’s definitely longer than Pam’s, so I think I’ve got a shot too </i>🫣
       <br><br>
-      <a href="https://drive.google.com/file/d/1XyNT0O9vOxlijumMe02c-eZCUOt3z6sH/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/157g0MhNY0FELFGFtqIiir2nhdNZ3dJMp/view?usp=sharing">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/my-resume-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="./assets/my-resume-light.svg">
