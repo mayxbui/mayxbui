@@ -1,8 +1,6 @@
 <p align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=500&color=F7B44F&center=true&width=435&lines=%F0%9F%8C%BCWelcome%2C;I'm+May%2C+and+thanks+for+visiting!;My+interest+is+building+AI+model;I+really+like+music+and+crochet;Have+a+wonderful+day+%F0%9F%8C%BB" alt="Typing SVG" /></a>
-</p>
-<br>
-<p align="center">
+  <br>
   <a href="https://linkedin.com/in/mayxbui"><img height="40" src="./assets/LinkedIn.svg" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mayxbui@gmail.com"><img height="40" src="./assets/Gmail.svg" alt="Gmail"></a>
