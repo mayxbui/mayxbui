@@ -5,18 +5,16 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-light.svg">
-      <img height="40" src="./assets/linkedin-dark.svg" alt="LinkedIn">
+      <img height="50" src="./assets/linkedin-dark.svg" alt="LinkedIn">
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mayxbui@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/gmail-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/gmail-light.svg">
-      <img height="40" src="./assets/gmail-dark.svg" alt="Gmail">
+      <img height="50" src="./assets/gmail-dark.svg" alt="Gmail">
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- <p align=center>
@@ -41,7 +39,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/my-resume-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="./assets/my-resume-light.svg">
-          <img height="40" src="./assets/my-resume-dark.svg" alt="My Resume">
+          <img height="70" src="./assets/my-resume-dark.svg" alt="My Resume">
         </picture>
       </a>
       <!-- ➡️ <a href="https://drive.google.com/file/d/1XyNT0O9vOxlijumMe02c-eZCUOt3z6sH/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>VIEW MY RESUME</b></a> -->
@@ -58,7 +56,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/about-me-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/about-me--light.svg">
-  <img height="40" src="./assets/about-me-dark.svg" alt="About me">
+  <img height="50" src="./assets/about-me-dark.svg" alt="About me">
 </picture>
 
 - 👩🏻‍💻 Computer Science & Business Analytics at DePauw University
