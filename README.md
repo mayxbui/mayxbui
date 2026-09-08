@@ -35,7 +35,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/my-resume-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="./assets/my-resume-light.svg">
-          <img height="70" src="./assets/my-resume-dark.svg" alt="My Resume">
+          <img height="65" src="./assets/my-resume-dark.svg" alt="My Resume">
         </picture>
       </a>
       <br><br>
