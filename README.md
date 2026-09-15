@@ -31,7 +31,7 @@
     
   <tr>
     <td width="38%" align="center">
-      <a href="https://drive.google.com/file/d/1AwrAUJNhtiesf9B3Ktx0ZznbV3Xc1oa-/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/11DGso1SUDEjq19FNJMPaxWLO3x1IUhv0/view?usp=sharing">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/my-resume-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="./assets/my-resume-light.svg">
