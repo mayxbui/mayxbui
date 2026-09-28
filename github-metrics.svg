@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.28800366009418" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="136.28800366009418" y="0" width="121.81685549617788" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="258.1048591562721" y="0" width="59.467100455605475" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="317.57195961187756" y="0" width="34.41822930235809" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="351.99018891423566" y="0" width="31.891595127499635" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="383.8817840417353" y="0" width="29.295393746068257" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="413.17717778780354" y="0" width="26.032165619261246" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="439.20934340706475" y="0" width="20.790656592935253" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.95350411574023" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="135.95350411574023" y="0" width="121.5178733292681" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="257.47137744500833" y="0" width="59.32114690523972" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="316.7925243502481" y="0" width="34.33375464787697" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="351.1262789981251" y="0" width="31.81332173767528" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="382.93960073580035" y="0" width="29.22349236372672" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="412.1630930995271" y="0" width="25.968273366793397" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="438.1313664663205" y="0" width="21.8686335336796" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jobream/Leetcode-Company-Wise-Problems</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a repository containing the list of company wise questions available on leetcode premium. Every pdf file in this repository corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags.</div>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krishnadey30/LeetCode-Questions-CompanyWise</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Contains Company Wise Questions sorted based on Frequency and all time</div>
@@ -186,7 +186,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SimplifyJobs/New-Grad-Positions</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of full time roles in SWE, Quant, and PM for new grads.</div>
@@ -195,7 +195,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        18k
+                                        18.1k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -235,36 +235,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.262057086614173 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">65</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4064</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.418633235004917 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">67</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4068</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.949327817993796 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.9349173553719 329"/>
                                     <text x="60" y="50" dominant-baseline="central">41</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/967</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/968</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.5710240679565834 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">23</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2119</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.877887788778878 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">25</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2121</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.33640081799591004 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.33605720122574056 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/978</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/979</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -279,15 +279,15 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x37</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x39</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x22</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x20</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x13</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x13</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x12</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x10</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x9</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x5</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x5</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x5</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -302,8 +302,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Reorder List</div>
-                            <div class="date">7 Sept 2026</div>
+                            <div class="title">Valid Parentheses</div>
+                            <div class="date">27 Sept 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -311,8 +311,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Merge Two Sorted Lists</div>
-                            <div class="date">7 Sept 2026</div>
+                            <div class="title">Best Time to Buy and Sell Stock II</div>
+                            <div class="date">27 Sept 2026</div>
                         </div>
                     </div>
                 </section>
