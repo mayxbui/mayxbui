@@ -31,11 +31,11 @@
     
   <tr>
     <td width="38%" align="center">
-      <a href="https://drive.google.com/file/d/1MZxDMOPQRULaYYlhXE5xGXhwzsPnQoCf/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1ezwCIeBYPuc3c6Xe1788_fYAcDkxWf9m/view?usp=drive_link">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/my-resume-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="./assets/my-resume-light.svg">
-          <img height="65" src="./assets/my-resume-dark.svg" alt="My Resume">
+          <img height="50" src="./assets/my-resume-dark.svg" alt="My Resume">
         </picture>
       </a>
       <br><br>
