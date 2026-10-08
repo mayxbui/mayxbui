@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="134.93229826822886" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="134.93229826822886" y="0" width="114.72540493570939" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="249.65770320393824" y="0" width="56.00528065129629" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="305.66298385523453" y="0" width="39.61876857414037" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="345.2817524293749" y="0" width="32.41460533355356" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="377.69635776292847" y="0" width="30.1969232905208" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="407.8932810534493" y="0" width="27.589990700212926" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.4832717536622" y="0" width="24.516728246337834" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.74614469331144" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="137.74614469331144" y="0" width="112.81212890135382" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="250.55827359466522" y="0" width="55.071280363151466" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="305.62955395781665" y="0" width="38.958046213072556" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="344.58760017088923" y="0" width="31.87402683149871" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="376.46162700238796" y="0" width="29.737181245020146" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="406.19880824740807" y="0" width="29.693329080716936" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.89213732812505" y="0" width="24.107862671874944" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -63,15 +63,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KaranocaVe/LiquidGlassAvaloniaUI</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An AvaloniaUI “liquid glass” backdrop effect</div>
@@ -151,7 +151,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rit3zh/expo-dynamic-notifications</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💧 Dynamic Island–style in-app notifications for React Native.</div>
@@ -172,7 +172,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        226
+                                        227
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -204,7 +204,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mak5er/AirCard</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)</div>
@@ -225,26 +225,26 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.27k
+                                        6.34k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        403
+                                        408
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        109
+                                        112
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        52
+                                        53
                                     </div>
                                 </div>
                             </section>
