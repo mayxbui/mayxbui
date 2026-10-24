@@ -61,7 +61,7 @@
 
 - 👩🏻‍💻 Computer Science & Business Analytics at DePauw University
 - 🎫 Break Through Tech Fellow - Machine Learning & AI
-- 🐰 Summer 25-26 iD Tech Lead Instructor (Teaching kids Python & AI Agent)
+- 🐰 Summer 25-26 iD Tech Lead Instructor (Teaching kids Python & AI Wrapper)
 
 <!--
 <br>
