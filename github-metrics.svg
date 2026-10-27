@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.52296996592122" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="209.52296996592122" y="0" width="87.35253607564651" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="296.87550604156775" y="0" width="43.576669959916956" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="340.4521760014847" y="0" width="30.113771790491057" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="370.56594779197576" y="0" width="24.63796990223959" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="395.20391769421536" y="0" width="23.17496620324631" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="418.37888389746166" y="0" width="22.98623203040707" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.3651159278687" y="0" width="18.634884072131282" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.17883882612475" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="226.17883882612475" y="0" width="82.96428571428571" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="309.1431245404105" y="0" width="41.04913430042115" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="350.19225884083164" y="0" width="27.66027140851661" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="377.85253024934826" y="0" width="22.63060699244602" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="400.4831372417943" y="0" width="21.286800588274616" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="421.7699378300689" y="0" width="21.11344341199278" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.88338124206166" y="0" width="17.116618757938365" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leader-board/OA-and-Interviews</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The guide to online assessments and interviews</div>
@@ -139,7 +139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>speedyapply/2027-SWE-College-Jobs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">2027 SWE internship &amp; new graduate job list updated daily</div>
@@ -148,7 +148,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        9.55k
+                                        9.56k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,7 +180,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahmedkhaleel2004/gitdiagram</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.</div>
@@ -201,7 +201,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        18.4k
+                                        18.5k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
