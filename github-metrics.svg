@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.62959153771874" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="229.62959153771874" y="0" width="82.90165675324685" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="312.5312482909656" y="0" width="40.20536981667723" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="352.73661810764287" y="0" width="27.019354227834793" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="379.7559723354776" y="0" width="22.10623235358218" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="401.8622046890598" y="0" width="20.79356333773295" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.6557680267927" y="0" width="20.624223027049883" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.27999105384265" y="0" width="16.720008946157353" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.85105015170166" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="238.85105015170166" y="0" width="79.62446982822826" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="318.4755199799299" y="0" width="38.693186361747664" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="357.1687063416776" y="0" width="25.9512516365746" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="383.11995797825216" y="0" width="21.232350473920643" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="404.3523084521728" y="0" width="19.808926485460947" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.16123493763376" y="0" width="19.779715098821665" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.9409500364554" y="0" width="16.059049963544563" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -63,15 +63,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tlmodding/ltd-images</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Images and icons used in Tomodachi Life: Living the Dream.</div>
@@ -139,7 +139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anitab-org/mentorship-backend</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mentorship System is an application that matches women in tech to mentor each other, on career development, through 1:1 relations during a certain period of time. This is the backend of this system.</div>
@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leader-board/OA-and-Interviews</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The guide to online assessments and interviews</div>
