@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.29948403544077" height="8" fill="#dc4afe"/>
-                    <rect mask="url(#languages-bar)" x="249.29948403544077" y="0" width="75.68965081291563" height="8" fill="#08fed1"/>
-                    <rect mask="url(#languages-bar)" x="324.9891348483564" y="0" width="37.46664227399221" height="8" fill="#0080fe"/>
-                    <rect mask="url(#languages-bar)" x="362.45577712234865" y="0" width="24.616968079805694" height="8" fill="#fe918b"/>
-                    <rect mask="url(#languages-bar)" x="387.0727452021543" y="0" width="20.140689212042247" height="8" fill="#fffe81"/>
-                    <rect mask="url(#languages-bar)" x="407.21343441419657" y="0" width="18.79045056541922" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.00388497961575" y="0" width="18.762741082172077" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.76662606178786" y="0" width="15.233373938212166" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.67181270076853" height="8" fill="#dc4afe"/>
+                    <rect mask="url(#languages-bar)" x="253.67181270076853" y="0" width="74.11898531927429" height="8" fill="#08fed1"/>
+                    <rect mask="url(#languages-bar)" x="327.7907980200428" y="0" width="36.68915735299794" height="8" fill="#0080fe"/>
+                    <rect mask="url(#languages-bar)" x="364.47995537304075" y="0" width="24.106131764592792" height="8" fill="#fe918b"/>
+                    <rect mask="url(#languages-bar)" x="388.5860871376335" y="0" width="19.722741907176218" height="8" fill="#fffe81"/>
+                    <rect mask="url(#languages-bar)" x="408.3088290448098" y="0" width="18.40052258984926" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.7093516346591" y="0" width="18.373388116906906" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.08273975156595" y="0" width="14.917260248434086" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tlmodding/ltd-images</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Images and icons used in Tomodachi Life: Living the Dream.</div>
@@ -139,7 +139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anitab-org/mentorship-backend</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mentorship System is an application that matches women in tech to mentor each other, on career development, through 1:1 relations during a certain period of time. This is the backend of this system.</div>
@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Leader-board/OA-and-Interviews</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The guide to online assessments and interviews</div>
