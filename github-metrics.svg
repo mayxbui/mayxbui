@@ -98,7 +98,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liquidslr/leetcode-company-wise-problems</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Oct, 2025</div>
@@ -139,7 +139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tlmodding/ltd-images</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Images and icons used in Tomodachi Life: Living the Dream.</div>
@@ -180,7 +180,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anitab-org/mentorship-backend</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mentorship System is an application that matches women in tech to mentor each other, on career development, through 1:1 relations during a certain period of time. This is the backend of this system.</div>
@@ -241,9 +241,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.376341463414635 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.375030480370642 329"/>
                                     <text x="60" y="50" dominant-baseline="central">67</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4100</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4101</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -259,9 +259,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8470533208606175 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8452547919588596 329"/>
                                     <text x="60" y="50" dominant-baseline="central">25</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2138</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2139</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
